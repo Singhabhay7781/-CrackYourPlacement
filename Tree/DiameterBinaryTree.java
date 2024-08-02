@@ -40,4 +40,4 @@ class Solution {
         int ht = 1 + Math.max(leftInfo.ht, rightInfo.ht);
         return new Info(diam, ht);
     }
-}
+} 
