@@ -1,5 +1,3 @@
-
-
 class Solution {
     public static void findPreSuc(Node root, Node[] pre, Node[] suc, int key) {
         // code here.
