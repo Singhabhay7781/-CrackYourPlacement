@@ -26,4 +26,4 @@ class Solution {
 
         str.setLength(len); // Restore the StringBuilder to its original state
     }
-}
+}   
